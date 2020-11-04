@@ -1,0 +1,16 @@
+{
+  "name": "examplebot",
+  "version": "1.0.0",
+  "description": "This bot retweets the latest tweet using the \"#mediaarts\" hashtag. It attempts to retweet once per hour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "requirejs": "^2.3.6",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {}
+}
